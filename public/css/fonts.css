@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'raleway';
+    src: url('../fonts/raleway/Raleway-Regular.ttf');
+}
+@font-face {
+    font-family: 'roboto';
+    src: url('../fonts/roboto/Roboto-Regular.ttf');
+    src: url('../fonts/roboto/Roboto-Regular.eot');
+    src: url('../fonts/roboto/Roboto-Regular.woff');
+}
+@font-face {
+    font-family: 'stark';
+    src: url('../fonts/stark/Stark.OTF');
+}
+
+@font-face {
+    font-family: 'aquino';
+    src: url('../fonts/aquino/aquino/Aquino-Demo.ttf');
+}
+
+@font-face {
+    font-family: 'brown';
+    src: url('../fonts/brown/BROWN-REGULAR.OTF');
+}
+
+@font-face {
+    font-family: 'trueno';
+    src: url('../fonts/trueno/TruenoRg.otf');
+}
+
+@font-face {
+    font-family: 'trueno-bold';
+    src: url('../fonts/trueno/TruenoBd.otf');
+}
+
+@font-face {
+    font-family: 'trueno-xlite';
+    src: url('../fonts/trueno/TruenoUltLt.otf');
+}
+
+@font-face {
+    font-family: 'trueno-lite';
+    src: url('../fonts/trueno/TruenoLt.otf');
+}
+
+@font-face {
+    font-family: 'azo';
+    src: url('../fonts/Azo Sans/Rui\ Abreu\ -\ AzoSans-Regular.otf');
+}
+
+@font-face {
+    font-family: 'mosk';
+    src: url('../fonts/Mosk Typeface/Mosk Bold 700.ttf');
+}
